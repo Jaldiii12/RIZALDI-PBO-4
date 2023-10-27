@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=car2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ car2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=car2()
+comment1.text=\r\n\ Konstruktor\ untuk\ objek\ dari\ class\ Ambulance.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Objek\ akan\ bergerak\ dari\ atas\ ke\ bawah.\r\n\ Jika\ sudah\ berada\ di\ bawah\ layar,\ objek\ akan\ menghilang.\r\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\r\n\ Mengganti\ gambar\ sehingga\ membuat\ sebuah\ animasi.\r\n
+comment4.params=
+comment4.target=void\ moving()
+comment4.text=\r\n\ Ketika\ dijalankan,\ method\ ini\ akan\ menggerakkan\ objek\ dari\ atas\ ke\ bawah.\r\n
+numComments=5

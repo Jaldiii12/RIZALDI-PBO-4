@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Objek\ pada\ class\ ini\ bergerak\ dari\ atas\ ke\ bawah.\r\n\ Kecepatan\ tiap\ objek\ berbeda-beda.\r\n\ @author\ (YK)\ \r\n\ @version\ (20\ April\ 2017)\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ Konstruktor\ untuk\ objek\ dari\ class\ Car.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Objek\ akan\ bergerak\ dari\ atas\ ke\ bawah.\r\n\ Jika\ sudah\ berada\ di\ bawah\ layar,\ objek\ akan\ menghilang.\r\n
+comment3.params=
+comment3.target=void\ moving()
+comment3.text=\r\n\ Ketika\ dijalankan,\ method\ ini\ akan\ menggerakkan\ objek\ dari\ atas\ ke\ bawah.\r\n
+numComments=4
